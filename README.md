@@ -1,6 +1,6 @@
 # Mekdela Amba University Student Cafe Simulation
 
-A 2D OpenGL simulation of the daily operations inside a student cafeteria at Mekdela Amba University. The project visualizes students obtaining tickets, queuing for food, dining at tables, and leaving, while demonstrating process queuing and resource allocation concepts using Python and OpenGL.
+A 2D OpenGL simulation of the daily operations inside a student cafeteria at Mekdela Amba University. The project visualizes students obtaining tickets(meal card), queuing for food, dining at tables, and leaving, while demonstrating process queuing and resource allocation concepts using Python and OpenGL.
 
 ## 🚀 Overview
 
