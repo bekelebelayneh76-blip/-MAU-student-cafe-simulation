@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+temp_func.txt
+*.tmp
+*.bak
+*.log
+
+# Environment files and IDE configs
+.env
+.vscode/
+
+# OS-specific junk
+Thumbs.db
+.DS_Store
+
+# Note: .rsrc/ and its contents are intentionally tracked and should not be ignored
