@@ -71,7 +71,7 @@ RETURN_CONTAINER_X = 1.32
 EXIT_DOOR_X = 1.52
 DINING_HALL_RIGHT = 1.62
 
-# -------------------- Drawing Helpers --------------------
+# -------------------- Drawing Helpers -----------------
 def rectangle(x1, y1, x2, y2, r, g, b):
     glColor3f(r, g, b)
     glBegin(GL_QUADS)
