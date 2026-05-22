@@ -5,7 +5,7 @@ import math
 import random
 import sys
 
-# -------------------- Data & Settings --------------------
+# -------------------- Data & Settings -------------------
 table_positions = [0.35, 0.75, 1.15]  # Three tables
 tables = []
 students = []
